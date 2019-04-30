@@ -1,0 +1,2 @@
+{"data":[{"all_sosmed":"0","facebook":"1","total_post":"0","instagram":"1","id_parent":206,"volume":"0","twitter":"1","total_issue":"0","sosmed":"all","time":"201802191730","id":1,"category":"all","googleplus":"0"}]}
+
